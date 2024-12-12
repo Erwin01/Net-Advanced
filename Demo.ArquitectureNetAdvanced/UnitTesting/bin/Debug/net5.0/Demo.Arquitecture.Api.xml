@@ -1,0 +1,89 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Demo.Arquitecture.Api</name>
+    </assembly>
+    <members>
+        <member name="M:Demo.Arquitecture.Api.Controllers.ClientController.InsertAsync(Demo.Arquitecture.Aplication.DTO.ClientDTO)">
+            <summary>
+            Insert a client
+            </summary>
+            <param name="clientDTO"></param>
+            <returns> Created client </returns>
+        </member>
+        <member name="M:Demo.Arquitecture.Api.Controllers.ClientController.GetAllAsync">
+            <summary>
+            Get all client
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Demo.Arquitecture.Api.Controllers.ClientController.GetByIdAsync(System.Int32)">
+            <summary>
+            Get by client
+            </summary>
+            <param name="clientId"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Demo.Arquitecture.Api.Controllers.ClientController.UpdateAsync(Demo.Arquitecture.Aplication.DTO.ClientDTO)">
+            <summary>
+            Update a client
+            </summary>
+            <param name="clientDTO"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Demo.Arquitecture.Api.Controllers.ClientController.DeleteAsync(System.Int32)">
+            <summary>
+            Delete a client
+            </summary>
+            <param name="clientId"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Demo.Arquitecture.Api.Controllers.ProductController.InsertAsync(Demo.Arquitecture.Aplication.DTO.ProductDTO)">
+            <summary>
+            Insert or updated a client
+            </summary>
+            <param name="productDTO"></param>
+            <returns> Created client </returns>
+        </member>
+        <member name="M:Demo.Arquitecture.Api.Controllers.ProductController.GetAllAsync">
+            <summary>
+            Get all client
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Demo.Arquitecture.Api.Controllers.ProductController.GetByIdAsync(System.Int32)">
+            <summary>
+            Get by client
+            </summary>
+            <param name="productId"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Demo.Arquitecture.Api.Controllers.ProductController.UpdateAsync(Demo.Arquitecture.Aplication.DTO.ProductDTO)">
+            <summary>
+            Update a client
+            </summary>
+            <param name="productDTO"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Demo.Arquitecture.Api.Controllers.ProductController.DeleteAsync(System.Int32)">
+            <summary>
+            Delete a client
+            </summary>
+            <param name="productId"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Demo.Arquitecture.Api.Controllers.ShoopingController.InsertAsync(Demo.Arquitecture.Aplication.DTO.ShoopingDTO)">
+            <summary>
+            Insert a shooping
+            </summary>
+            <param name="shoopingDTO"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Demo.Arquitecture.Api.Controllers.ShoopingController.GetAllAsync">
+            <summary>
+            Get all shopping
+            </summary>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

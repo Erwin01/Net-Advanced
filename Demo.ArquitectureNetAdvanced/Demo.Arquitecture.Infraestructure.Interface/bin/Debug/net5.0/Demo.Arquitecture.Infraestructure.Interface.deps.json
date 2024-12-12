@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Demo.Arquitecture.Infraestructure.Interface/1.0.0": {
+        "runtime": {
+          "Demo.Arquitecture.Infraestructure.Interface.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Demo.Arquitecture.Infraestructure.Interface/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

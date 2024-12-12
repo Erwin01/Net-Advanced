@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Hbj8xeXcgyq20wW/Wfk79PGenhn6bLH1bdUMx8LylxgqAxMLiCRCV3s3+XOou5JtcKmtL2WOmZp6Ba12hARrog==",
+  "success": true,
+  "projectFilePath": "C:\\Develop\\Arquitecture Net Advanced\\Demo.ArquitectureNetAdvanced\\Demo.Arquitecture.Domain.Entity\\Demo.Arquitecture.Domain.Entity.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Asus\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\5.0.17\\microsoft.entityframeworkcore.abstractions.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
